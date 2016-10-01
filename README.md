@@ -1,4 +1,1 @@
-# uxplore-bin
-# uxplore-bin
-# uxplore-bin
-# uxplore-bin
+# uXplore, binaires Linux et Ms Windows
